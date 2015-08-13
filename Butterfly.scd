@@ -93,9 +93,9 @@ spriteFactory = {|tID, canvas, pos, area|
   );
 };
 
-/* the i determines the secotr in the view where this butterly operates */
+/* the i determines the sector in the view where this butterly operates */
 butterflyFactory = {| i, canvas |
-  var size = 15;
+  var size = 35;
   var mPos = Rect(0,0,1,1);
   var mArea;
   var mOn = false;
