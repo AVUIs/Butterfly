@@ -27,6 +27,7 @@ Butterfly is made 100% in SuperCollider for SuperColliderists, it was developed 
 
 ### Installation
 In order to run Butterfly you need to install [SuperCollider](http://supercollider.github.io). 
+Start the SuperCollider server first (ctrl+b on Windows/Linux or Cmd+b on a Mac).
 To launch Butterfly execute first the code in ButterflySynths.scd and ButterflySynths2.scd. 
 This will load the synths into the SuperCollider server. Then execute Butterfly.scd
 
