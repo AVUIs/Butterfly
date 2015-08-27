@@ -43,6 +43,8 @@ The screen is automatically divided into four uniform areas: top-left, top-right
 
 Right-clicking on an active butterfly will deactivate it and stop the sound and visual associated to it.
 
+If the variable _kFULL_SCREEN_ (see below for more info on configuration variables) is set to _true_, Butterfly will
+run in full-screen mode. To exit the application then, just hit alt+f4 on Windows or cmd+w on Mac OS. 
 
 ### Use Butterfly with your own synths
 If you happen to know the SuperCollider language, the Butterfly interface can work with any Supercollider synth out of the box-ish,
